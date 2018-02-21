@@ -1,4 +1,3 @@
-/*css is written in seperate folders then imported into the main css file.*/
 @import "normalize.css";
 @import "base/_variables";
 @import "base/_mixins";
@@ -15,3 +14,5 @@
 @import "modules/_testimonial";
 @import "modules/_sprite";
 @import "modules/_site-footer";
+@import "modules/_site-header";
+@import "modules/_primary-nav";
